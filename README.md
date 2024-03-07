@@ -1,1 +1,1 @@
-# StreamlitImageClassification
+# streamlit_webcamera
